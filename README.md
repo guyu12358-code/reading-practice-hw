@@ -12,3 +12,8 @@ git config --global user.email "你的邮箱"
 ```
 git init
 ```
+### 4.在github创建远程仓库并与本地仓库关联
+```
+git remote add origin "远程仓库地址"
+git remote -v  #查看是否成功
+···
